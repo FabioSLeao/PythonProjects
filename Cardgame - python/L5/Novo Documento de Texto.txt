@@ -1,0 +1,21 @@
+Ich war,Eu era
+Du warst,Você era
+Er war,Ele era
+wir waren,Nós eramos
+Ihr wart,Vocês eram
+Sie waren,Eles Eram
+Ich hatte,Eu tinha
+Du hattest,Você tinha
+Er hatte,Ele tinha
+Wir hatten,Nós tinhamos
+Ihr hattet,Vocês tinham
+Sie hatten,Eles tinham
+Die Nüsse und Äpfel waren nicht reif,As nozes e maçãs não estavam maduras
+der Krieg,A guerra
+das Zimmer,O quarto
+die Kirche,A igreja
+das Geschäft,O Negócio
+die Schule,A escola
+die Klasse,A classe
+es war,havia
+es waren,havia

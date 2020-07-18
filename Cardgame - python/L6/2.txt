@@ -1,0 +1,7 @@
+mein,meu
+dein,teu
+sein,seu
+unser,nosso
+euer,vosso
+ihr,deles
+der Botschafter,O embaixador

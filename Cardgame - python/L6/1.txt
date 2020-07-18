@@ -1,0 +1,20 @@
+der Schuh,O sapato
+das Schaf,O carneiro
+der Mantel,A capa
+das Fenster,A Janela
+die Tür,A pora
+der Stock,A bengala
+die Socke,A meia
+der Hut,O Chapeu
+die Mütze,O gorro
+der Anzug,O teno
+der Knopf,O botão
+der Strumpf,O meião
+die Uhr,O relógio
+die Taschenuhr,O Relógio de bolso
+der Handschuh,A luva
+das Haar,O cabelo
+das Bein,A perna
+das Licht,A luz
+die Brust,O peito
+der Kragen,O colarinho

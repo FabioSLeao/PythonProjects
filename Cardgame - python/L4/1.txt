@@ -1,0 +1,37 @@
+Ich habe,Eu tenho
+Du hast,Você tem
+Er hat,Ele tem
+Wir Haben,Nós temos
+Ihr habt,Vocês tem
+sie haben,Eles tem
+Ich bin,Eu sou
+Du bist,Você é
+Er ist,Ele é
+Wir sind,Nós somos
+Ihr seid,Vocês são
+sie sind,Eles são
+Ich liebte,Eu amava
+Du liebtest,Você amava
+Er liebte,Ele amava
+Wir liebten,Nós amavamos
+Ihr liebtet,Vocês amavam
+Sie liebten,Eles amavam
+der Neffe,O sobrinho
+der Löwe,O Leão
+der Franzose,O francês
+der Hase,A lebre
+der Ochse,O boi
+der Matrose,O marinheiro
+der Junge,O menino
+Tot,Morto
+Leben,Viver
+Lernen,Aprender
+Erzählen,Contar
+Wohnen,Morar
+Wo?,Onde?
+Oben,Em cima
+Unten,Em baixo
+Noch,Ainda
+Wo wohnen die Brüder des Matrosen?,Onde moram os irmãos do marinheiro?
+Erzähltest du dem Jungen das Lied der Matrosen?,Você contou ao menino a canção do marinheiro?
+Leben die Hasen des Knaben?,Os coelhos do rapaz vivem?

@@ -1,0 +1,15 @@
+Fehlen,Faltar
+Steige,Subir
+Erweitern,Aumentar
+Stehlen,Roubar
+Meinen,Pensar
+Sammlen,Juntar
+Ändern,Mudar
+Bereiten,Preparar
+Stellen,Colocar
+Zeigen,Mostrar
+Verkaufen,Vender
+Letzte,Último
+Warten,Esperar
+Mögen,Gostar
+Herbst,Outono

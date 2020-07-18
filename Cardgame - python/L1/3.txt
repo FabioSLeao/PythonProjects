@@ -1,0 +1,42 @@
+das Blatt,A folha
+das Buch,O livro
+das Dach,O telhado
+das Dorf,A aldeia
+Das Ei,O ovo
+Das Feld,O campo
+Das Glas,O copo
+Das Haus,A casa
+Das Horn,O chifre
+das Kind,A criança
+das Kleid,O vestido
+das Lied,A Canção
+das Rad,A roda
+das Worf,A Palavra
+Das Blatter,As folhas
+die Bücher,Os livros
+die Dächer,Os telhados
+die Dörfer,As aldeias
+die Eier,Os ovos
+die Felder,Os campos
+die Gläser,Os copos
+die Häuser,As casas
+die Hörner,Os chifres
+die Kinder,As crianças
+die Kleider,Os Vestidos
+die Lieder,As canções
+die Räder,As rodas
+die Wörter,As Palavras
+Lang,Longo
+Kurz,Curto
+Voll,Cheio
+Leer,Vazio
+Grün,Verde
+Rot,Vermelho
+Viereckig,Quadrado
+Hoch,Alto
+Niedrig,Baixo
+Aber,Mas
+Ziemlich,algo
+Fast,Quase
+Zu,Demais
+Selten,raramente

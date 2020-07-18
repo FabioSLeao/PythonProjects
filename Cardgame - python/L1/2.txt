@@ -1,0 +1,29 @@
+die Stadt,A Cidade
+die Städt,As cidades
+die Nacht,A noite
+die Nächte,As noites
+die Hand,A Mão
+die Hände,As Mãos
+die Kuh,A Vaca
+die Kühe,As vacas
+die Nuss,A noz
+die Nüsse,As nozes
+die Wand,A parede
+die Wände,As paredes
+dir Wurst,die Würste
+Dunkel,Escuro
+Schwarz,Preto
+Braun,Marrom
+Weiss,Branco
+Fertig,pronto
+Reif,Maduro
+Sauer,Azedo
+Gross,Grande
+Klein,Pequeno
+Dick,Grosso
+Sehr,Muito
+Dünn,Fino
+Hungrig,Faminto
+Durstig,Sedento
+Alt,velho
+Neu,Novo

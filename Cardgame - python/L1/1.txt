@@ -1,0 +1,33 @@
+der Garten,O Jardim
+die Gärten,Os Jardins
+der Apfel,A Maçã
+die Äpfel,As Maçãs
+der Schneider,O Alfaiate
+die Schneider,Os Alfaiates
+der Bruder,O Irmão
+die Brüder,Os irmãos
+der Vater,O Pai
+die Väter,Os Pais
+der Lehrer,O Professor
+die Lehrer,Os Professores
+der Schüler,O Aluno
+die Schüler,Os alunos
+der Onkel,O Tio
+die Onkel,Os tios
+der Bäcker,O Padeiro
+die Bäcker,Os padeiros
+der Laden,A Loja
+die Läden,As Lojas
+der Wagen,O carro
+die Wagen,Os carros
+Dort,Lá
+Manchmal,As vezes
+Immer,Sempre
+oft,Muitas vezes
+Schlecht,Ruim
+Arm,Pobre
+Reich,Rico
+Gänz,Totalmente
+Böse,Mau
+Ehrlich,Honesto
+Unehrlich,Desonesto
