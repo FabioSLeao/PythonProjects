@@ -1,1 +1,1 @@
-"README" 
+"Little game to learn deutsch with premaded Q&A."
